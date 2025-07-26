@@ -98,8 +98,7 @@ The app will open in your browser. Adjust input fields and click **Predict** to 
 
 ## 👨‍💻 Author & Credits
 
-Developed by:  
-**B. Chaitanya**  
+Developed by:  **B. Chaitanya**  
 
 - GitHub: [bchaitanya92](https://github.com/bchaitanya92)
 - LinkedIn: [BOURISETTI CHAITANYA](https://www.linkedin.com/in/bourisetti-chaitanya/)
