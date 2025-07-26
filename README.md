@@ -61,7 +61,7 @@ Road-Traffic-Severity-Classification-Project/
 
 Clone the repository:
 ```sh
-git clone https://github.com/sumitsartale4952/Road-Traffic-Severity-Classification.git
+git clone [https://github.com/sumitsartale4952/Road-Traffic-Severity-Classification.git](https://github.com/bchaitanya92/Road-Traffic-Severity-Classification-Project.git)
 cd Road-Traffic-Severity-Classification
 ```
 
